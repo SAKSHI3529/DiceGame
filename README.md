@@ -1,9 +1,10 @@
-Overview
+<h1>Overview</h1>
+
 Welcome to the Dice Game! This is a simple yet exciting game where players guess a number before rolling the dice. 
 If the rolled number matches the guessed number, the player's score increases; otherwise, it decreases.
 Perfect for a quick and fun gaming session, whether you're playing alone or with friends.
 
-Features
+<h1>Features</h1>
 
 * Guessing Mechanic: Predict the dice outcome before rolling.
 * Customizable Dice: Choose the number of dice and sides per die.
